@@ -1,0 +1,4308 @@
+{
+  "meta": {
+    "caseId": "af47e264-710e-417c-abcc-459f59ba3ad6",
+    "caseName": "minitest-1",
+    "remarks": "",
+    "version": "0.0.1",
+    "startTime": 1671597611605,
+    "endTime": 1671597725978,
+    "appid": "wxb88aaf2635c5f1f7",
+    "casePath": "",
+    "caseType": "normal",
+    "commonParams": [
+      {
+        "key": "1671597725998",
+        "name": "",
+        "value": ""
+      }
+    ]
+  },
+  "env": {
+    "wxapplibVersion": "2.29.0",
+    "devtoolsVersion": "1.06.2210310",
+    "openid": "o6zAJs3-xFmhfDP2PdbSyIcygoEY",
+    "entry": {
+      "path": "pages/index/index",
+      "query": "",
+      "scene": 1001
+    },
+    "mock": [
+      "none"
+    ],
+    "maxWaitFor": 10000,
+    "ignoreSelectors": [],
+    "mockAPIs": [],
+    "cleanCache": [
+      "none"
+    ],
+    "groupTouch": false,
+    "device": "iPhone 5",
+    "simulatorType": "wechat",
+    "recordAPIs": []
+  },
+  "commands": [
+    {
+      "layer": "tool",
+      "commandType": "operate",
+      "command": "startRecord",
+      "waitfor": 0,
+      "timeStamp": 1671597611605,
+      "desc": ""
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[1]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 32.666664123535156,
+            "clientY": 184.75,
+            "force": 1,
+            "pageX": 32.666664123535156,
+            "pageY": 184.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 136,
+            "screenY": 372.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 32.666664123535156,
+            "clientY": 184.75,
+            "force": 1,
+            "pageX": 32.666664123535156,
+            "pageY": 184.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 136,
+            "screenY": 372.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[1]/image"
+      ],
+      "timeStamp": 4836,
+      "waitfor": 4836,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[1]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 33.33332824707031,
+            "clientY": 184.66668701171875,
+            "pageX": 33.33332824707031,
+            "pageY": 184.66668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 136.6666717529297,
+            "screenY": 372.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[1]/image"
+      ],
+      "timeStamp": 5005,
+      "waitfor": 169,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[1]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 33.33332824707031,
+          "y": 184.66668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 32.666664123535156,
+            "clientY": 184.75,
+            "force": 1,
+            "pageX": 32.666664123535156,
+            "pageY": 184.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 136,
+            "screenY": 372.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 32.666664123535156,
+            "clientY": 184.75,
+            "force": 1,
+            "pageX": 32.666664123535156,
+            "pageY": 184.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 136,
+            "screenY": 372.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[1]/image"
+      ],
+      "timeStamp": 5006,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[2]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 94.66667175292969,
+            "clientY": 175.41668701171875,
+            "force": 1,
+            "pageX": 94.66667175292969,
+            "pageY": 175.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 198,
+            "screenY": 363.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 94.66667175292969,
+            "clientY": 175.41668701171875,
+            "force": 1,
+            "pageX": 94.66667175292969,
+            "pageY": 175.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 198,
+            "screenY": 363.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[2]/image"
+      ],
+      "timeStamp": 6839,
+      "waitfor": 1833,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[2]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 94.66667175292969,
+            "clientY": 175.41668701171875,
+            "pageX": 94.66667175292969,
+            "pageY": 175.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 198,
+            "screenY": 363.3333435058594
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[2]/image"
+      ],
+      "timeStamp": 6993,
+      "waitfor": 154,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[2]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 94.66667175292969,
+          "y": 175.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 94.66667175292969,
+            "clientY": 175.41668701171875,
+            "force": 1,
+            "pageX": 94.66667175292969,
+            "pageY": 175.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 198,
+            "screenY": 363.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 94.66667175292969,
+            "clientY": 175.41668701171875,
+            "force": 1,
+            "pageX": 94.66667175292969,
+            "pageY": 175.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 198,
+            "screenY": 363.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[2]/image"
+      ],
+      "timeStamp": 6995,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[3]",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "美容",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 179.33334350585938,
+            "clientY": 186.75,
+            "force": 1,
+            "pageX": 179.33334350585938,
+            "pageY": 186.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 282.66668701171875,
+            "screenY": 374.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 179.33334350585938,
+            "clientY": 186.75,
+            "force": 1,
+            "pageX": 179.33334350585938,
+            "pageY": 186.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 282.66668701171875,
+            "screenY": 374.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[3]"
+      ],
+      "timeStamp": 13764,
+      "waitfor": 6769,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[3]",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "美容",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 179.33334350585938,
+            "clientY": 186.75,
+            "pageX": 179.33334350585938,
+            "pageY": 186.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 282.66668701171875,
+            "screenY": 374.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[3]"
+      ],
+      "timeStamp": 13887,
+      "waitfor": 123,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[3]",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "美容",
+      "eventData": {
+        "detail": {
+          "x": 179.33334350585938,
+          "y": 186.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 179.33334350585938,
+            "clientY": 186.75,
+            "force": 1,
+            "pageX": 179.33334350585938,
+            "pageY": 186.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 282.66668701171875,
+            "screenY": 374.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 179.33334350585938,
+            "clientY": 186.75,
+            "force": 1,
+            "pageX": 179.33334350585938,
+            "pageY": 186.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 282.66668701171875,
+            "screenY": 374.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[3]"
+      ],
+      "timeStamp": 13888,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[4]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 222.6666717529297,
+            "clientY": 190.08334350585938,
+            "force": 1,
+            "pageX": 222.6666717529297,
+            "pageY": 190.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 326,
+            "screenY": 378
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 222.6666717529297,
+            "clientY": 190.08334350585938,
+            "force": 1,
+            "pageX": 222.6666717529297,
+            "pageY": 190.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 326,
+            "screenY": 378
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[4]/image"
+      ],
+      "timeStamp": 15081,
+      "waitfor": 1193,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[4]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 222.6666717529297,
+            "clientY": 190.08334350585938,
+            "pageX": 222.6666717529297,
+            "pageY": 190.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 326,
+            "screenY": 378
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[4]/image"
+      ],
+      "timeStamp": 15254,
+      "waitfor": 173,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[4]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 222.6666717529297,
+          "y": 190.08334350585938
+        },
+        "changedTouches": [
+          {
+            "clientX": 222.6666717529297,
+            "clientY": 190.08334350585938,
+            "force": 1,
+            "pageX": 222.6666717529297,
+            "pageY": 190.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 326,
+            "screenY": 378
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 222.6666717529297,
+            "clientY": 190.08334350585938,
+            "force": 1,
+            "pageX": 222.6666717529297,
+            "pageY": 190.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 326,
+            "screenY": 378
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[4]/image"
+      ],
+      "timeStamp": 15255,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[5]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 293.33331298828125,
+            "clientY": 180.08334350585938,
+            "force": 1,
+            "pageX": 293.33331298828125,
+            "pageY": 180.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 396.66668701171875,
+            "screenY": 368
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 293.33331298828125,
+            "clientY": 180.08334350585938,
+            "force": 1,
+            "pageX": 293.33331298828125,
+            "pageY": 180.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 396.66668701171875,
+            "screenY": 368
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[5]/image"
+      ],
+      "timeStamp": 16816,
+      "waitfor": 1561,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[5]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 293.33331298828125,
+            "clientY": 180.08334350585938,
+            "pageX": 293.33331298828125,
+            "pageY": 180.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 396.66668701171875,
+            "screenY": 368
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[5]/image"
+      ],
+      "timeStamp": 17016,
+      "waitfor": 200,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[5]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 293.33331298828125,
+          "y": 180.08334350585938
+        },
+        "changedTouches": [
+          {
+            "clientX": 293.33331298828125,
+            "clientY": 180.08334350585938,
+            "force": 1,
+            "pageX": 293.33331298828125,
+            "pageY": 180.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 396.66668701171875,
+            "screenY": 368
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 293.33331298828125,
+            "clientY": 180.08334350585938,
+            "force": 1,
+            "pageX": 293.33331298828125,
+            "pageY": 180.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 396.66668701171875,
+            "screenY": 368
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[5]/image"
+      ],
+      "timeStamp": 17017,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[2]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 107.33333587646484,
+            "clientY": 179.41668701171875,
+            "force": 1,
+            "pageX": 107.33333587646484,
+            "pageY": 179.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 210.6666717529297,
+            "screenY": 367.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 107.33333587646484,
+            "clientY": 179.41668701171875,
+            "force": 1,
+            "pageX": 107.33333587646484,
+            "pageY": 179.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 210.6666717529297,
+            "screenY": 367.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[2]/image"
+      ],
+      "timeStamp": 21923,
+      "waitfor": 4906,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[2]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 107.33333587646484,
+            "clientY": 179.41668701171875,
+            "pageX": 107.33333587646484,
+            "pageY": 179.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 210.6666717529297,
+            "screenY": 367.3333435058594
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[2]/image"
+      ],
+      "timeStamp": 22066,
+      "waitfor": 143,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[2]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 107.33333587646484,
+          "y": 179.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 107.33333587646484,
+            "clientY": 179.41668701171875,
+            "force": 1,
+            "pageX": 107.33333587646484,
+            "pageY": 179.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 210.6666717529297,
+            "screenY": 367.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 107.33333587646484,
+            "clientY": 179.41668701171875,
+            "force": 1,
+            "pageX": 107.33333587646484,
+            "pageY": 179.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 210.6666717529297,
+            "screenY": 367.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[2]/image"
+      ],
+      "timeStamp": 22067,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 291.33331298828125,
+            "clientY": 265.41668701171875,
+            "force": 1,
+            "pageX": 291.33331298828125,
+            "pageY": 265.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 394.66668701171875,
+            "screenY": 453.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 291.33331298828125,
+            "clientY": 265.41668701171875,
+            "force": 1,
+            "pageX": 291.33331298828125,
+            "pageY": 265.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 394.66668701171875,
+            "screenY": 453.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 25367,
+      "waitfor": 3300,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 291.33331298828125,
+            "clientY": 265.41668701171875,
+            "pageX": 291.33331298828125,
+            "pageY": 265.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 394.66668701171875,
+            "screenY": 453.3333435058594
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 25526,
+      "waitfor": 159,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {
+          "x": 291.33331298828125,
+          "y": 265.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 291.33331298828125,
+            "clientY": 265.41668701171875,
+            "force": 1,
+            "pageX": 291.33331298828125,
+            "pageY": 265.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 394.66668701171875,
+            "screenY": 453.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 291.33331298828125,
+            "clientY": 265.41668701171875,
+            "force": 1,
+            "pageX": 291.33331298828125,
+            "pageY": 265.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 394.66668701171875,
+            "screenY": 453.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 25527,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchstart",
+      "target": "/view/view[3]/view/view[1]/picker/view",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "2016-10-14",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 103.33333587646484,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 103.33333587646484,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 206.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 103.33333587646484,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 103.33333587646484,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 206.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[1]/picker/view"
+      ],
+      "timeStamp": 27895,
+      "waitfor": 2368,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchend",
+      "target": "/view/view[3]/view/view[1]/picker/view",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "2016-10-14",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 103.33333587646484,
+            "clientY": 303.41668701171875,
+            "pageX": 103.33333587646484,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 206.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[1]/picker/view"
+      ],
+      "timeStamp": 28043,
+      "waitfor": 148,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "tap",
+      "target": "/view/view[3]/view/view[1]/picker/view",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "2016-10-14",
+      "eventData": {
+        "detail": {
+          "x": 103.33333587646484,
+          "y": 303.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 103.33333587646484,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 103.33333587646484,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 206.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 103.33333587646484,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 103.33333587646484,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 206.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[1]/picker/view"
+      ],
+      "timeStamp": 28044,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "picker",
+      "command": "change",
+      "target": "/view/view[3]/view/view[1]/picker",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "2016-10-14",
+      "eventData": {
+        "detail": {
+          "value": "2016-12-17"
+        },
+        "changedTouches": [],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[1]/picker"
+      ],
+      "timeStamp": 35994,
+      "waitfor": 1026,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 34968,
+      "waitfor": 6924,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "hidePickerView",
+      "data": {
+        "value": "2016-12-17"
+      },
+      "target": "/view/view[3]/view/view[1]/picker"
+    },
+    {
+      "tagName": "view",
+      "command": "touchstart",
+      "target": "view.ar_cont",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "服务时间\n2016-12-17\n12:00\n留言信息\n输入信息\n确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 205.33334350585938,
+            "clientY": 307.41668701171875,
+            "force": 1,
+            "pageX": 205.33334350585938,
+            "pageY": 307.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 308.66668701171875,
+            "screenY": 495.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 205.33334350585938,
+            "clientY": 307.41668701171875,
+            "force": 1,
+            "pageX": 205.33334350585938,
+            "pageY": 307.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 308.66668701171875,
+            "screenY": 495.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "view.ar_cont",
+        ".ar_cont",
+        "/view/view[3]"
+      ],
+      "timeStamp": 37476,
+      "waitfor": 1482,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchend",
+      "target": "view.ar_cont",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "服务时间\n2016-12-17\n12:00\n留言信息\n输入信息\n确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 205.33334350585938,
+            "clientY": 306.66668701171875,
+            "pageX": 205.33334350585938,
+            "pageY": 306.66668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 308.66668701171875,
+            "screenY": 494.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "view.ar_cont",
+        ".ar_cont",
+        "/view/view[3]"
+      ],
+      "timeStamp": 37615,
+      "waitfor": 139,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "tap",
+      "target": "view.ar_cont",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "服务时间\n2016-12-17\n12:00\n留言信息\n输入信息\n确认预定",
+      "eventData": {
+        "detail": {
+          "x": 205.33334350585938,
+          "y": 306.66668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 205.33334350585938,
+            "clientY": 307.41668701171875,
+            "force": 1,
+            "pageX": 205.33334350585938,
+            "pageY": 307.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 308.66668701171875,
+            "screenY": 495.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 205.33334350585938,
+            "clientY": 307.41668701171875,
+            "force": 1,
+            "pageX": 205.33334350585938,
+            "pageY": 307.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 308.66668701171875,
+            "screenY": 495.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "view.ar_cont",
+        ".ar_cont",
+        "/view/view[3]"
+      ],
+      "timeStamp": 37617,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchstart",
+      "target": "/view/view[3]/view/view[2]/picker/view",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "12:00",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 300.0833435058594,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 300.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 488
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 300.0833435058594,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 300.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 488
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[2]/picker/view"
+      ],
+      "timeStamp": 38142,
+      "waitfor": 525,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchend",
+      "target": "/view/view[3]/view/view[2]/picker/view",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "12:00",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 300.0833435058594,
+            "pageX": 208.6666717529297,
+            "pageY": 300.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 488
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[2]/picker/view"
+      ],
+      "timeStamp": 38274,
+      "waitfor": 132,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "tap",
+      "target": "/view/view[3]/view/view[2]/picker/view",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "12:00",
+      "eventData": {
+        "detail": {
+          "x": 208.6666717529297,
+          "y": 300.0833435058594
+        },
+        "changedTouches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 300.0833435058594,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 300.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 488
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 300.0833435058594,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 300.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 488
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[2]/picker/view"
+      ],
+      "timeStamp": 38275,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 43351,
+      "waitfor": 5076,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "hidePickerView",
+      "data": {
+        "value": "18:06"
+      },
+      "target": "/view/view[3]/view/view[2]/picker"
+    },
+    {
+      "tagName": "input",
+      "command": "touchstart",
+      "target": "input.input_msg",
+      "childName": "input",
+      "path": "pages/book/book",
+      "text": "输入信息",
+      "eventData": {
+        "detail": {}
+      },
+      "targetCandidates": [
+        "input.input_msg",
+        ".input_msg",
+        "/view/view[3]/input"
+      ],
+      "timeStamp": 43981,
+      "waitfor": 630,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "input",
+      "command": "touchend",
+      "target": "input.input_msg",
+      "childName": "input",
+      "path": "pages/book/book",
+      "text": "输入信息",
+      "eventData": {
+        "detail": {}
+      },
+      "targetCandidates": [
+        "input.input_msg",
+        ".input_msg",
+        "/view/view[3]/input"
+      ],
+      "timeStamp": 44023,
+      "waitfor": 42,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "input",
+      "command": "tap",
+      "target": "input.input_msg",
+      "childName": "input",
+      "path": "pages/book/book",
+      "text": "输入信息",
+      "eventData": {
+        "detail": {
+          "x": 128,
+          "y": 374.75
+        }
+      },
+      "targetCandidates": [
+        "input.input_msg",
+        ".input_msg",
+        "/view/view[3]/input"
+      ],
+      "timeStamp": 44024,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "picker",
+      "command": "change",
+      "target": "/view/view[3]/view/view[2]/picker",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "12:00",
+      "eventData": {
+        "detail": {
+          "value": "18:06"
+        },
+        "changedTouches": [],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/view[3]/view/view[2]/picker"
+      ],
+      "timeStamp": 44353,
+      "waitfor": 329,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "input",
+      "command": "input",
+      "target": "input.input_msg",
+      "value": "美甲",
+      "childName": "input",
+      "path": "pages/book/book",
+      "text": "",
+      "eventData": {},
+      "targetCandidates": [
+        "input.input_msg",
+        ".input_msg",
+        "/view/view[3]/input"
+      ],
+      "timeStamp": 46207,
+      "waitfor": 1854,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchstart",
+      "target": "view.ar_cont",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "服务时间\n2016-12-17\n18:06\n留言信息\n确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 132.6666717529297,
+            "clientY": 398.0833740234375,
+            "force": 1,
+            "pageX": 132.6666717529297,
+            "pageY": 398.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 236,
+            "screenY": 586
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 132.6666717529297,
+            "clientY": 398.0833740234375,
+            "force": 1,
+            "pageX": 132.6666717529297,
+            "pageY": 398.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 236,
+            "screenY": 586
+          }
+        ]
+      },
+      "targetCandidates": [
+        "view.ar_cont",
+        ".ar_cont",
+        "/view/view[3]"
+      ],
+      "timeStamp": 47540,
+      "waitfor": 1333,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchend",
+      "target": "view.ar_cont",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "服务时间\n2016-12-17\n18:06\n留言信息\n确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 132.6666717529297,
+            "clientY": 398.0833740234375,
+            "pageX": 132.6666717529297,
+            "pageY": 398.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 236,
+            "screenY": 586
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "view.ar_cont",
+        ".ar_cont",
+        "/view/view[3]"
+      ],
+      "timeStamp": 47655,
+      "waitfor": 115,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "tap",
+      "target": "view.ar_cont",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "服务时间\n2016-12-17\n18:06\n留言信息\n确认预定",
+      "eventData": {
+        "detail": {
+          "x": 132.6666717529297,
+          "y": 398.0833740234375
+        },
+        "changedTouches": [
+          {
+            "clientX": 132.6666717529297,
+            "clientY": 398.0833740234375,
+            "force": 1,
+            "pageX": 132.6666717529297,
+            "pageY": 398.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 236,
+            "screenY": 586
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 132.6666717529297,
+            "clientY": 398.0833740234375,
+            "force": 1,
+            "pageX": 132.6666717529297,
+            "pageY": 398.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 236,
+            "screenY": 586
+          }
+        ]
+      },
+      "targetCandidates": [
+        "view.ar_cont",
+        ".ar_cont",
+        "/view/view[3]"
+      ],
+      "timeStamp": 47656,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchstart",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 421.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 421.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 609.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 421.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 421.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 609.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 48708,
+      "waitfor": 1052,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchend",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 420.66668701171875,
+            "pageX": 171.33334350585938,
+            "pageY": 420.66668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 608.6666870117188
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 48818,
+      "waitfor": 110,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "tap",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {
+          "x": 171.33334350585938,
+          "y": 420.66668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 421.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 421.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 609.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 421.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 421.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 609.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 48819,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 52663,
+      "waitfor": 3844,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[3]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 148,
+            "clientY": 189.41668701171875,
+            "force": 1,
+            "pageX": 148,
+            "pageY": 189.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 251.33334350585938,
+            "screenY": 377.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 148,
+            "clientY": 189.41668701171875,
+            "force": 1,
+            "pageX": 148,
+            "pageY": 189.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 251.33334350585938,
+            "screenY": 377.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[3]/image"
+      ],
+      "timeStamp": 53951,
+      "waitfor": 1288,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[3]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 148,
+            "clientY": 188.66668701171875,
+            "pageX": 148,
+            "pageY": 188.66668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 251.33334350585938,
+            "screenY": 376.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[3]/image"
+      ],
+      "timeStamp": 54070,
+      "waitfor": 119,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[3]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 148,
+          "y": 188.66668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 148,
+            "clientY": 189.41668701171875,
+            "force": 1,
+            "pageX": 148,
+            "pageY": 189.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 251.33334350585938,
+            "screenY": 377.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 148,
+            "clientY": 189.41668701171875,
+            "force": 1,
+            "pageX": 148,
+            "pageY": 189.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 251.33334350585938,
+            "screenY": 377.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[3]/image"
+      ],
+      "timeStamp": 54072,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[3]",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 295.33331298828125,
+            "clientY": 274.75,
+            "force": 1,
+            "pageX": 295.33331298828125,
+            "pageY": 274.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 398.66668701171875,
+            "screenY": 462.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 295.33331298828125,
+            "clientY": 274.75,
+            "force": 1,
+            "pageX": 295.33331298828125,
+            "pageY": 274.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 398.66668701171875,
+            "screenY": 462.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[3]"
+      ],
+      "timeStamp": 55805,
+      "waitfor": 1733,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[3]",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 295.33331298828125,
+            "clientY": 274.75,
+            "pageX": 295.33331298828125,
+            "pageY": 274.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 398.66668701171875,
+            "screenY": 462.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[3]"
+      ],
+      "timeStamp": 55922,
+      "waitfor": 117,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[3]",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {
+          "x": 295.33331298828125,
+          "y": 274.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 295.33331298828125,
+            "clientY": 274.75,
+            "force": 1,
+            "pageX": 295.33331298828125,
+            "pageY": 274.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 398.66668701171875,
+            "screenY": 462.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 295.33331298828125,
+            "clientY": 274.75,
+            "force": 1,
+            "pageX": 295.33331298828125,
+            "pageY": 274.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 398.66668701171875,
+            "screenY": 462.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[3]"
+      ],
+      "timeStamp": 55923,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchstart",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 180.00003051757812,
+            "clientY": 426.0833740234375,
+            "force": 1,
+            "pageX": 180.00003051757812,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 283.3333435058594,
+            "screenY": 614
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 180.00003051757812,
+            "clientY": 426.0833740234375,
+            "force": 1,
+            "pageX": 180.00003051757812,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 283.3333435058594,
+            "screenY": 614
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 57552,
+      "waitfor": 1629,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchend",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 180.00003051757812,
+            "clientY": 426.0833740234375,
+            "pageX": 180.00003051757812,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 283.3333435058594,
+            "screenY": 614
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 57713,
+      "waitfor": 161,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "tap",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {
+          "x": 180.00003051757812,
+          "y": 426.0833740234375
+        },
+        "changedTouches": [
+          {
+            "clientX": 180.00003051757812,
+            "clientY": 426.0833740234375,
+            "force": 1,
+            "pageX": 180.00003051757812,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 283.3333435058594,
+            "screenY": 614
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 180.00003051757812,
+            "clientY": 426.0833740234375,
+            "force": 1,
+            "pageX": 180.00003051757812,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 283.3333435058594,
+            "screenY": 614
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 57714,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 59439,
+      "waitfor": 1725,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "text",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view[2]/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 288.66668701171875,
+            "clientY": 360.75,
+            "force": 1,
+            "pageX": 288.66668701171875,
+            "pageY": 360.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 392,
+            "screenY": 548.6666870117188
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 288.66668701171875,
+            "clientY": 360.75,
+            "force": 1,
+            "pageX": 288.66668701171875,
+            "pageY": 360.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 392,
+            "screenY": 548.6666870117188
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[2]/view[3]/text"
+      ],
+      "timeStamp": 60743,
+      "waitfor": 1304,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view[2]/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 288.66668701171875,
+            "clientY": 360.75,
+            "pageX": 288.66668701171875,
+            "pageY": 360.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 392,
+            "screenY": 548.6666870117188
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[2]/view[3]/text"
+      ],
+      "timeStamp": 60904,
+      "waitfor": 161,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view[2]/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {
+          "x": 288.66668701171875,
+          "y": 360.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 288.66668701171875,
+            "clientY": 360.75,
+            "force": 1,
+            "pageX": 288.66668701171875,
+            "pageY": 360.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 392,
+            "screenY": 548.6666870117188
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 288.66668701171875,
+            "clientY": 360.75,
+            "force": 1,
+            "pageX": 288.66668701171875,
+            "pageY": 360.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 392,
+            "screenY": 548.6666870117188
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[2]/view[3]/text"
+      ],
+      "timeStamp": 60905,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchstart",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 413.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 413.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 601.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 413.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 413.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 601.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 62318,
+      "waitfor": 1413,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchend",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 413.41668701171875,
+            "pageX": 171.33334350585938,
+            "pageY": 413.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 601.3333740234375
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 62463,
+      "waitfor": 145,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "tap",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {
+          "x": 171.33334350585938,
+          "y": 413.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 413.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 413.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 601.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 171.33334350585938,
+            "clientY": 413.41668701171875,
+            "force": 1,
+            "pageX": 171.33334350585938,
+            "pageY": 413.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 274.66668701171875,
+            "screenY": 601.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 62464,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 65399,
+      "waitfor": 2935,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "text",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[4]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "美发",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 213.33334350585938,
+            "clientY": 200.08334350585938,
+            "force": 1,
+            "pageX": 213.33334350585938,
+            "pageY": 200.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 316.66668701171875,
+            "screenY": 388
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 213.33334350585938,
+            "clientY": 200.08334350585938,
+            "force": 1,
+            "pageX": 213.33334350585938,
+            "pageY": 200.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 316.66668701171875,
+            "screenY": 388
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[4]/text"
+      ],
+      "timeStamp": 66497,
+      "waitfor": 1098,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[4]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "美发",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 213.33334350585938,
+            "clientY": 199.33334350585938,
+            "pageX": 213.33334350585938,
+            "pageY": 199.33334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 316.66668701171875,
+            "screenY": 387.3333435058594
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[4]/text"
+      ],
+      "timeStamp": 66627,
+      "waitfor": 130,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[4]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "美发",
+      "eventData": {
+        "detail": {
+          "x": 213.33334350585938,
+          "y": 199.33334350585938
+        },
+        "changedTouches": [
+          {
+            "clientX": 213.33334350585938,
+            "clientY": 200.08334350585938,
+            "force": 1,
+            "pageX": 213.33334350585938,
+            "pageY": 200.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 316.66668701171875,
+            "screenY": 388
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 213.33334350585938,
+            "clientY": 200.08334350585938,
+            "force": 1,
+            "pageX": 213.33334350585938,
+            "pageY": 200.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 316.66668701171875,
+            "screenY": 388
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[4]/text"
+      ],
+      "timeStamp": 66628,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 285.33331298828125,
+            "clientY": 270.0833435058594,
+            "force": 1,
+            "pageX": 285.33331298828125,
+            "pageY": 270.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388.66668701171875,
+            "screenY": 458
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 285.33331298828125,
+            "clientY": 270.0833435058594,
+            "force": 1,
+            "pageX": 285.33331298828125,
+            "pageY": 270.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388.66668701171875,
+            "screenY": 458
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 68750,
+      "waitfor": 2122,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 285.33331298828125,
+            "clientY": 270.0833435058594,
+            "pageX": 285.33331298828125,
+            "pageY": 270.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388.66668701171875,
+            "screenY": 458
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 68876,
+      "waitfor": 126,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {
+          "x": 285.33331298828125,
+          "y": 270.0833435058594
+        },
+        "changedTouches": [
+          {
+            "clientX": 285.33331298828125,
+            "clientY": 270.0833435058594,
+            "force": 1,
+            "pageX": 285.33331298828125,
+            "pageY": 270.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388.66668701171875,
+            "screenY": 458
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 285.33331298828125,
+            "clientY": 270.0833435058594,
+            "force": 1,
+            "pageX": 285.33331298828125,
+            "pageY": 270.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388.66668701171875,
+            "screenY": 458
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 68880,
+      "waitfor": 4,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchstart",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 417.41668701171875,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 417.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 605.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 417.41668701171875,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 417.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 605.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 69849,
+      "waitfor": 969,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchend",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 417.41668701171875,
+            "pageX": 208.6666717529297,
+            "pageY": 417.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 605.3333740234375
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 70004,
+      "waitfor": 155,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "tap",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {
+          "x": 208.6666717529297,
+          "y": 417.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 417.41668701171875,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 417.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 605.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 208.6666717529297,
+            "clientY": 417.41668701171875,
+            "force": 1,
+            "pageX": 208.6666717529297,
+            "pageY": 417.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 312,
+            "screenY": 605.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 70006,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 71318,
+      "waitfor": 1312,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "view",
+      "command": "touchstart",
+      "target": "view.nav_top",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "推荐\n美甲\n美容\n美发\n美睫",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 262,
+            "clientY": 180.75,
+            "force": 1,
+            "pageX": 262,
+            "pageY": 180.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 365.3333435058594,
+            "screenY": 368.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 262,
+            "clientY": 180.75,
+            "force": 1,
+            "pageX": 262,
+            "pageY": 180.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 365.3333435058594,
+            "screenY": 368.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "view.nav_top",
+        ".nav_top",
+        "/view/scroll-view/view[2]"
+      ],
+      "timeStamp": 72365,
+      "waitfor": 1047,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "touchend",
+      "target": "view.nav_top",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "推荐\n美甲\n美容\n美发\n美睫",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 262,
+            "clientY": 180.75,
+            "pageX": 262,
+            "pageY": 180.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 365.3333435058594,
+            "screenY": 368.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "view.nav_top",
+        ".nav_top",
+        "/view/scroll-view/view[2]"
+      ],
+      "timeStamp": 72481,
+      "waitfor": 116,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "view",
+      "command": "tap",
+      "target": "view.nav_top",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "推荐\n美甲\n美容\n美发\n美睫",
+      "eventData": {
+        "detail": {
+          "x": 262,
+          "y": 180.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 262,
+            "clientY": 180.75,
+            "force": 1,
+            "pageX": 262,
+            "pageY": 180.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 365.3333435058594,
+            "screenY": 368.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 262,
+            "clientY": 180.75,
+            "force": 1,
+            "pageX": 262,
+            "pageY": 180.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 365.3333435058594,
+            "screenY": 368.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "view.nav_top",
+        ".nav_top",
+        "/view/scroll-view/view[2]"
+      ],
+      "timeStamp": 72483,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[2]/view[5]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 279.33331298828125,
+            "clientY": 192.75,
+            "force": 1,
+            "pageX": 279.33331298828125,
+            "pageY": 192.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 382.66668701171875,
+            "screenY": 380.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 279.33331298828125,
+            "clientY": 192.75,
+            "force": 1,
+            "pageX": 279.33331298828125,
+            "pageY": 192.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 382.66668701171875,
+            "screenY": 380.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[5]/image"
+      ],
+      "timeStamp": 72995,
+      "waitfor": 512,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[2]/view[5]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 279.33331298828125,
+            "clientY": 192.75,
+            "pageX": 279.33331298828125,
+            "pageY": 192.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 382.66668701171875,
+            "screenY": 380.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[5]/image"
+      ],
+      "timeStamp": 73109,
+      "waitfor": 114,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[2]/view[5]/image",
+      "value": null,
+      "path": "pages/index/index",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 279.33331298828125,
+          "y": 192.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 279.33331298828125,
+            "clientY": 192.75,
+            "force": 1,
+            "pageX": 279.33331298828125,
+            "pageY": 192.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 382.66668701171875,
+            "screenY": 380.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 279.33331298828125,
+            "clientY": 192.75,
+            "force": 1,
+            "pageX": 279.33331298828125,
+            "pageY": 192.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 382.66668701171875,
+            "screenY": 380.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[2]/view[5]/image"
+      ],
+      "timeStamp": 73110,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 298,
+            "clientY": 268.0833435058594,
+            "force": 1,
+            "pageX": 298,
+            "pageY": 268.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 401.3333435058594,
+            "screenY": 456
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 298,
+            "clientY": 268.0833435058594,
+            "force": 1,
+            "pageX": 298,
+            "pageY": 268.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 401.3333435058594,
+            "screenY": 456
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 73819,
+      "waitfor": 709,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 298,
+            "clientY": 268.0833435058594,
+            "pageX": 298,
+            "pageY": 268.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 401.3333435058594,
+            "screenY": 456
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 73940,
+      "waitfor": 121,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view/view[3]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/index/index",
+      "text": "预约",
+      "eventData": {
+        "detail": {
+          "x": 298,
+          "y": 268.0833435058594
+        },
+        "changedTouches": [
+          {
+            "clientX": 298,
+            "clientY": 268.0833435058594,
+            "force": 1,
+            "pageX": 298,
+            "pageY": 268.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 401.3333435058594,
+            "screenY": 456
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 298,
+            "clientY": 268.0833435058594,
+            "force": 1,
+            "pageX": 298,
+            "pageY": 268.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 401.3333435058594,
+            "screenY": 456
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view/view[3]/text"
+      ],
+      "timeStamp": 73942,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchstart",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 187.33334350585938,
+            "clientY": 412.75,
+            "force": 1,
+            "pageX": 187.33334350585938,
+            "pageY": 412.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 290.66668701171875,
+            "screenY": 600.6666870117188
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 187.33334350585938,
+            "clientY": 412.75,
+            "force": 1,
+            "pageX": 187.33334350585938,
+            "pageY": 412.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 290.66668701171875,
+            "screenY": 600.6666870117188
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 74986,
+      "waitfor": 1044,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchend",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 187.33334350585938,
+            "clientY": 412.75,
+            "pageX": 187.33334350585938,
+            "pageY": 412.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 290.66668701171875,
+            "screenY": 600.6666870117188
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 75127,
+      "waitfor": 141,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "tap",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {
+          "x": 187.33334350585938,
+          "y": 412.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 187.33334350585938,
+            "clientY": 412.75,
+            "force": 1,
+            "pageX": 187.33334350585938,
+            "pageY": 412.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 290.66668701171875,
+            "screenY": 600.6666870117188
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 187.33334350585938,
+            "clientY": 412.75,
+            "force": 1,
+            "pageX": 187.33334350585938,
+            "pageY": 412.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 290.66668701171875,
+            "screenY": 600.6666870117188
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 75129,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 76363,
+      "waitfor": 1234,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "timeStamp": 77563,
+      "waitfor": 1200,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "switchTab",
+      "text": "技师",
+      "data": {
+        "url": "pages/technician/technician"
+      }
+    },
+    {
+      "tagName": "text",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[2]/view[2]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/technician/technician",
+      "text": " ¥500",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 165.33334350585938,
+            "clientY": 148.75,
+            "force": 1,
+            "pageX": 165.33334350585938,
+            "pageY": 148.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 268.66668701171875,
+            "screenY": 336.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 165.33334350585938,
+            "clientY": 148.75,
+            "force": 1,
+            "pageX": 165.33334350585938,
+            "pageY": 148.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 268.66668701171875,
+            "screenY": 336.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[2]/view[2]/text"
+      ],
+      "timeStamp": 80344,
+      "waitfor": 2781,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[2]/view[2]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/technician/technician",
+      "text": " ¥500",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 165.33334350585938,
+            "clientY": 148.75,
+            "pageX": 165.33334350585938,
+            "pageY": 148.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 268.66668701171875,
+            "screenY": 336.66668701171875
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[2]/view[2]/text"
+      ],
+      "timeStamp": 80471,
+      "waitfor": 127,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[2]/view[2]/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/technician/technician",
+      "text": " ¥500",
+      "eventData": {
+        "detail": {
+          "x": 165.33334350585938,
+          "y": 148.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 165.33334350585938,
+            "clientY": 148.75,
+            "force": 1,
+            "pageX": 165.33334350585938,
+            "pageY": 148.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 268.66668701171875,
+            "screenY": 336.66668701171875
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 165.33334350585938,
+            "clientY": 148.75,
+            "force": 1,
+            "pageX": 165.33334350585938,
+            "pageY": 148.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 268.66668701171875,
+            "screenY": 336.66668701171875
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[2]/view[2]/text"
+      ],
+      "timeStamp": 80472,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchstart",
+      "target": "/view/view[2]/view[4]/view/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/technicain_detail/technicain_detail",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 284.66668701171875,
+            "clientY": 424.75,
+            "force": 1,
+            "pageX": 284.66668701171875,
+            "pageY": 424.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388,
+            "screenY": 612.6666870117188
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 284.66668701171875,
+            "clientY": 424.75,
+            "force": 1,
+            "pageX": 284.66668701171875,
+            "pageY": 424.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388,
+            "screenY": 612.6666870117188
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/view[2]/view[4]/view/text"
+      ],
+      "timeStamp": 82182,
+      "waitfor": 1710,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "touchend",
+      "target": "/view/view[2]/view[4]/view/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/technicain_detail/technicain_detail",
+      "text": "预约",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 284.66668701171875,
+            "clientY": 424.75,
+            "pageX": 284.66668701171875,
+            "pageY": 424.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388,
+            "screenY": 612.6666870117188
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/view[2]/view[4]/view/text"
+      ],
+      "timeStamp": 82336,
+      "waitfor": 154,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "text",
+      "command": "tap",
+      "target": "/view/view[2]/view[4]/view/text",
+      "value": null,
+      "childName": "main",
+      "path": "pages/technicain_detail/technicain_detail",
+      "text": "预约",
+      "eventData": {
+        "detail": {
+          "x": 284.66668701171875,
+          "y": 424.75
+        },
+        "changedTouches": [
+          {
+            "clientX": 284.66668701171875,
+            "clientY": 424.75,
+            "force": 1,
+            "pageX": 284.66668701171875,
+            "pageY": 424.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388,
+            "screenY": 612.6666870117188
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 284.66668701171875,
+            "clientY": 424.75,
+            "force": 1,
+            "pageX": 284.66668701171875,
+            "pageY": 424.75,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 388,
+            "screenY": 612.6666870117188
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/view[2]/view[4]/view/text"
+      ],
+      "timeStamp": 82337,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchstart",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 162.6666717529297,
+            "clientY": 431.41668701171875,
+            "force": 1,
+            "pageX": 162.6666717529297,
+            "pageY": 431.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 266,
+            "screenY": 619.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 162.6666717529297,
+            "clientY": 431.41668701171875,
+            "force": 1,
+            "pageX": 162.6666717529297,
+            "pageY": 431.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 266,
+            "screenY": 619.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 84004,
+      "waitfor": 1667,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "touchend",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 162.6666717529297,
+            "clientY": 431.41668701171875,
+            "pageX": 162.6666717529297,
+            "pageY": 431.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 266,
+            "screenY": 619.3333740234375
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 84129,
+      "waitfor": 125,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "button",
+      "command": "tap",
+      "target": "button.ar_book",
+      "value": null,
+      "path": "pages/book/book",
+      "text": "确认预定",
+      "eventData": {
+        "detail": {
+          "x": 162.6666717529297,
+          "y": 431.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 162.6666717529297,
+            "clientY": 431.41668701171875,
+            "force": 1,
+            "pageX": 162.6666717529297,
+            "pageY": 431.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 266,
+            "screenY": 619.3333740234375
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 162.6666717529297,
+            "clientY": 431.41668701171875,
+            "force": 1,
+            "pageX": 162.6666717529297,
+            "pageY": 431.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 266,
+            "screenY": 619.3333740234375
+          }
+        ]
+      },
+      "targetCandidates": [
+        "button.ar_book",
+        ".ar_book",
+        "/view/view[3]/button"
+      ],
+      "timeStamp": 84131,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 86933,
+      "waitfor": 2802,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "timeStamp": 87981,
+      "waitfor": 1048,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view[3]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 67.33332824707031,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 67.33332824707031,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 170.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 67.33332824707031,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 67.33332824707031,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 170.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[3]/view[1]/image"
+      ],
+      "timeStamp": 89376,
+      "waitfor": 1395,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view[3]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 67.33332824707031,
+            "clientY": 303.41668701171875,
+            "pageX": 67.33332824707031,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 170.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[3]/view[1]/image"
+      ],
+      "timeStamp": 89533,
+      "waitfor": 157,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view[3]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 67.33332824707031,
+          "y": 303.41668701171875
+        },
+        "changedTouches": [
+          {
+            "clientX": 67.33332824707031,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 67.33332824707031,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 170.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 67.33332824707031,
+            "clientY": 303.41668701171875,
+            "force": 1,
+            "pageX": 67.33332824707031,
+            "pageY": 303.41668701171875,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 170.6666717529297,
+            "screenY": 491.3333435058594
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[3]/view[1]/image"
+      ],
+      "timeStamp": 89535,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 94280,
+      "waitfor": 4745,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view[3]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 76,
+            "clientY": 322.0833435058594,
+            "force": 1,
+            "pageX": 76,
+            "pageY": 322.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 179.33334350585938,
+            "screenY": 510
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 76,
+            "clientY": 322.0833435058594,
+            "force": 1,
+            "pageX": 76,
+            "pageY": 322.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 179.33334350585938,
+            "screenY": 510
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[3]/view[1]/image"
+      ],
+      "timeStamp": 95873,
+      "waitfor": 1593,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view[3]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 76,
+            "clientY": 322.0833435058594,
+            "pageX": 76,
+            "pageY": 322.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 179.33334350585938,
+            "screenY": 510
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[3]/view[1]/image"
+      ],
+      "timeStamp": 96034,
+      "waitfor": 161,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view[3]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 76,
+          "y": 322.0833435058594
+        },
+        "changedTouches": [
+          {
+            "clientX": 76,
+            "clientY": 322.0833435058594,
+            "force": 1,
+            "pageX": 76,
+            "pageY": 322.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 179.33334350585938,
+            "screenY": 510
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 76,
+            "clientY": 322.0833435058594,
+            "force": 1,
+            "pageX": 76,
+            "pageY": 322.0833435058594,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 179.33334350585938,
+            "screenY": 510
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[3]/view[1]/image"
+      ],
+      "timeStamp": 96035,
+      "waitfor": 1,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 97735,
+      "waitfor": 1700,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 54.66667175292969,
+            "clientY": 172.08334350585938,
+            "force": 1,
+            "pageX": 54.66667175292969,
+            "pageY": 172.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 158,
+            "screenY": 360
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 54.66667175292969,
+            "clientY": 172.08334350585938,
+            "force": 1,
+            "pageX": 54.66667175292969,
+            "pageY": 172.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 158,
+            "screenY": 360
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[1]/image"
+      ],
+      "timeStamp": 98316,
+      "waitfor": 581,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 54.66667175292969,
+            "clientY": 172.08334350585938,
+            "pageX": 54.66667175292969,
+            "pageY": 172.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 158,
+            "screenY": 360
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[1]/image"
+      ],
+      "timeStamp": 98486,
+      "waitfor": 170,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view[1]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 54.66667175292969,
+          "y": 172.08334350585938
+        },
+        "changedTouches": [
+          {
+            "clientX": 54.66667175292969,
+            "clientY": 172.08334350585938,
+            "force": 1,
+            "pageX": 54.66667175292969,
+            "pageY": 172.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 158,
+            "screenY": 360
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 54.66667175292969,
+            "clientY": 172.08334350585938,
+            "force": 1,
+            "pageX": 54.66667175292969,
+            "pageY": 172.08334350585938,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 158,
+            "screenY": 360
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[1]/view[1]/image"
+      ],
+      "timeStamp": 98488,
+      "waitfor": 2,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 100042,
+      "waitfor": 1554,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "tagName": "",
+      "command": "scroll",
+      "target": "/",
+      "path": "pages/technician/technician",
+      "eventData": {
+        "scrollDetail": {
+          "scrollTop": 12,
+          "scrollLeft": 0
+        }
+      },
+      "targetCandidates": [],
+      "timeStamp": 101064,
+      "waitfor": 1022,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchstart",
+      "target": "/view/scroll-view/view[3]/view/view[4]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 73.33332824707031,
+            "clientY": 414.0833740234375,
+            "force": 1,
+            "pageX": 73.33332824707031,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 176.6666717529297,
+            "screenY": 602
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 73.33332824707031,
+            "clientY": 414.0833740234375,
+            "force": 1,
+            "pageX": 73.33332824707031,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 176.6666717529297,
+            "screenY": 602
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[4]/view[1]/image"
+      ],
+      "timeStamp": 101281,
+      "waitfor": 217,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "touchend",
+      "target": "/view/scroll-view/view[3]/view/view[4]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {},
+        "changedTouches": [
+          {
+            "clientX": 73.33332824707031,
+            "clientY": 414.0833740234375,
+            "pageX": 73.33332824707031,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 176.6666717529297,
+            "screenY": 602
+          }
+        ],
+        "touches": []
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[4]/view[1]/image"
+      ],
+      "timeStamp": 101415,
+      "waitfor": 134,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "tagName": "image",
+      "command": "tap",
+      "target": "/view/scroll-view/view[3]/view/view[4]/view[1]/image",
+      "value": null,
+      "path": "pages/technician/technician",
+      "text": "",
+      "eventData": {
+        "detail": {
+          "x": 73.33332824707031,
+          "y": 426.0833740234375
+        },
+        "changedTouches": [
+          {
+            "clientX": 73.33332824707031,
+            "clientY": 414.0833740234375,
+            "force": 1,
+            "pageX": 73.33332824707031,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 176.6666717529297,
+            "screenY": 602
+          }
+        ],
+        "touches": [
+          {
+            "clientX": 73.33332824707031,
+            "clientY": 414.0833740234375,
+            "force": 1,
+            "pageX": 73.33332824707031,
+            "pageY": 426.0833740234375,
+            "radiusX": 11.5,
+            "radiusY": 11.5,
+            "screenX": 176.6666717529297,
+            "screenY": 602
+          }
+        ]
+      },
+      "targetCandidates": [
+        "/view/scroll-view/view[3]/view/view[4]/view[1]/image"
+      ],
+      "timeStamp": 101418,
+      "waitfor": 3,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "pageframe"
+    },
+    {
+      "timeStamp": 108215,
+      "waitfor": 6797,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "navigateLeft",
+      "text": ""
+    },
+    {
+      "timeStamp": 109508,
+      "waitfor": 1293,
+      "desc": "",
+      "commandType": "operate",
+      "layer": "native",
+      "command": "switchTab",
+      "text": "我的",
+      "data": {
+        "url": "pages/user/user"
+      }
+    },
+    {
+      "timeStamp": 114373,
+      "waitfor": 4865,
+      "desc": "",
+      "layer": "tool",
+      "commandType": "operate",
+      "command": "stopRecord"
+    }
+  ]
+}
